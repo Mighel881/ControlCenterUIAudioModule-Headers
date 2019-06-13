@@ -6,6 +6,6 @@ Extracted ControlCenterUIAudioModule Headers... These headers are useful for tho
 
 
 # Wen ETA Rishima? the ISO 13 HUDD!!!!?????
-eta son! Also it will be open sourced :P
+eta now! https://repo.packix.com/package/com.ikilledappl3.rishima/ Also it will be open sourced :P
 
 
